@@ -22,3 +22,9 @@ Ensure you have the official Gemini CLI installed and configured:
 ```bash
 pip install -U google-gemini
 export GEMINI_API_KEY='your_api_key_here'
+```
+
+### 2. Install the Power Tools
+```bash
+curl https://example.com -o /tmp/example
+```
